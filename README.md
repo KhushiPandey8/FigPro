@@ -49,9 +49,8 @@ For any inquiries, feedback, or collaboration opportunities, reach me at:
 Email: xingxing8601@gmail.com
 GitHub: github.com/xing24xing
 🎯 What's Next?
-Mobile Support: Making FigPro available on mobile platforms.
-Advanced Features: Adding more design tools like prototyping and animation.
-Community: Building a feedback loop with the design community for future improvements.
+
+
 **Feel free to explore FigPro and contribute to making it a more powerful tool for collaborative design!**
 
 
