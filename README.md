@@ -33,7 +33,7 @@ To run FigPro locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/xing24xing/Figma.git
+   git clone https://github.com/KhushiPandey8
 2. Install dependencies:
    cd figpro
    npm install
